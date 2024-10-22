@@ -11,8 +11,8 @@ namespace Tyuiu.ZhuriloNA.Sprint4.Task6.V29
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* Спринт #4                                                                   *");
             Console.WriteLine("* Тема: Базовые навыки работы в с#                                            *");
-            Console.WriteLine("* Задание #6                                                                  *");
-            Console.WriteLine("* Вариант #24                                                                 *");
+            Console.WriteLine("* Задание #7                                                                  *");
+            Console.WriteLine("* Вариант #29                                                                 *");
             Console.WriteLine("* Выполнил Журило Никита Александрович | ИБКСб-24-1                           *");
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* Условие                                                                     *");
