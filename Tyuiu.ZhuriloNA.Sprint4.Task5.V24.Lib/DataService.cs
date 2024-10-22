@@ -10,7 +10,7 @@ namespace Tyuiu.ZhuriloNA.Sprint4.Task5.V24.Lib
             {
                 for (int j = 0; j < matrix.GetLength(1); j++) 
                 {
-                    if (matrix[i, j] >= 0) 
+                    if (matrix[i, j] > 0) 
                     {
                         res++;
                     }
